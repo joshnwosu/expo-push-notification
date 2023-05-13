@@ -48,7 +48,7 @@ async function registerForPushNotificationsAsync() {
     }
     token = (
       await Notifications
-        .getExpoPushTokenAsync
+        .getDevicePushTokenAsync
         //   {
         //   projectId: "c536eb8a-f873-42ec-a47c-92a66878281c",
         // }

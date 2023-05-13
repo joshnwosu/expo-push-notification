@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884423968209",
+    "project_id": "expo-push-notify-2862c",
+    "storage_bucket": "expo-push-notify-2862c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884423968209:android:628473d13756fc68418cf0",
+        "android_client_info": {
+          "package_name": "com.hyveTest.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884423968209-6hfff34udi3u9u4ntoqa4k5856m57sic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKv-WQmNIpRKVC22xvrII6-MyjCcv96co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884423968209-6hfff34udi3u9u4ntoqa4k5856m57sic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
